@@ -1,6 +1,6 @@
 ## Preview
 
-在某次订阅邮件中看到这篇 [Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)，感觉里面的观点一个工程师来说都是值得借鉴和思考的，故而凭借着自己有限的理解能力和翻译能力进行了汉化，以此自省，如何做一个更好的工程师。
+在某次订阅邮件中看到这篇 [Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)，感觉里面的观点对于一个工程师来说都是值得借鉴和思考的，故而凭借着自己有限的理解能力和翻译能力进行了汉化，以此自省，如何做一个更好的工程师。
 
 ## Laws
 
