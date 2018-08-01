@@ -113,7 +113,8 @@
 
 22. 遇到疑问时，用文档记录下来。
 
-    > When in doubt, document. \(Documentation requirements will reach a maximum shortly after the termination of a program.\)  
+    > When in doubt, document. \(Documentation requirements will reach a maximum shortly after the termination of a program.\) 
+    
     > `个人理解：遇到问题就记下来，不要因为刻意忽略掉。因为你记录的问题，在未来得到答案后，不仅有利于你自身的成长，还有助于避免因隐藏的问题导致的严重后果。`
 
 23. 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。
