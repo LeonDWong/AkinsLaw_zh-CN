@@ -116,9 +116,9 @@
     > When in doubt, document. \(Documentation requirements will reach a maximum shortly after the termination of a program.\)  
     > `个人理解：遇到问题就记下来，不要因为刻意忽略掉。因为你记录的问题，在未来得到答案后，不仅有利于你自身的成长，还有助于避免因隐藏的问题导致的严重后果。`
 
-23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
+23. 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。
 
-    > 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。  
+    > The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
     > `个人理解：项目的迭代都是可持续的，很少有一锤子买卖，迭代会在需求消失的时候断掉。`
 
 24. 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
