@@ -120,6 +120,7 @@
 23. 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。
 
     > The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
+    
     > `个人理解：项目的迭代都是可持续的，很少有一锤子买卖，迭代会在需求消失的时候断掉。`
 
 24. 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
